@@ -1,0 +1,2 @@
+include ':customimageviewer', ':sample'
+rootProject.name = "ImageViewer"
